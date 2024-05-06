@@ -1,0 +1,39 @@
+section > div {
+    width: 80px;
+    height: 30px;
+    border: 2px solid #ffffff;
+    margin-top: 300px;
+    margin-bottom: 50px;
+
+
+}
+
+section {
+    width: 100%;
+    position: relative;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: #000000;
+
+}
+
+.light-on {
+    background: #2fff00;
+}
+
+.light-on1 {
+    background: #104601;
+}
+
+.button {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 52.6vh;
+}
+
+.button div{
+    margin-left:700px;
+}
